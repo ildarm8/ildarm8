@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 🧔
+
+### My name is Ildar Mirgaleev👋
+
+In the past, IT security specialist, now I am studying and developing in data analysis.
 
 <!--
 **ildarm8/ildarm8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
